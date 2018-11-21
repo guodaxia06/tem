@@ -1,2 +1,3 @@
 third version
 feature1
+feature2
